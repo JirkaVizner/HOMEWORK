@@ -1,2 +1,1 @@
 # HOMEWORK
-git init [Vypisky]
