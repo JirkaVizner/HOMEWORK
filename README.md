@@ -1,2 +1,1 @@
 # HOMEWORK
-/ vypisky
