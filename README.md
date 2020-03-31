@@ -1,2 +1,2 @@
 # HOMEWORK
-/Vypisky
+/ vypisky
